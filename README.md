@@ -1,2 +1,2 @@
 # Cursea_2020
-excercises
+This folder contains excesises from different Cursea Professional Certificates IBM
